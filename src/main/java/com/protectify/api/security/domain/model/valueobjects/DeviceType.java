@@ -4,5 +4,6 @@ public enum DeviceType {
     SENSOR,
     CAMERA,
     ALARM,
+    DOOR,
     OTHER
 }
